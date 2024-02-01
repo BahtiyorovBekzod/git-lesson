@@ -15,3 +15,6 @@ header .container h1{
     text-align: center;
     font-family: sans-serif;
 }
+header .container p{
+    color: red;
+}
